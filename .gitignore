@@ -1,0 +1,14 @@
+.gitignore
+*.DS_Store
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.idea/
+.vscode/
+*.swp
+.coverage/
+.nyc_output/
+*.tmp
+.turbo/
