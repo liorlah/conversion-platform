@@ -10,5 +10,3 @@ dist/
 *.swp
 .coverage/
 .nyc_output/
-*.tmp
-.turbo/
